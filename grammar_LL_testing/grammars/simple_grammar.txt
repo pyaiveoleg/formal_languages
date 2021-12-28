@@ -1,0 +1,4 @@
+S -> aAaa
+S -> bAba
+A -> b
+A -> `
